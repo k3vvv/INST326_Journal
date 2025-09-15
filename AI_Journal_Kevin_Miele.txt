@@ -1,1 +1,12 @@
-jnfdnf
+AI Usage Journal
+Kevin Miele
+kmiele@terpmail.umd.edu
+Section: 0302
+
+Week 1
+
+My main source of AI for this week is ChatGPT. I have not used the other AI services yet but I plan to as the course moves forward. 
+So as I was going over the week 1 exercises, I used ChatGPT to refresh on some concepts of Python I have not used for a while.
+For example, I needed a reminder on how to print a float integer and change its decimal place. I really liked how chatGPT created useful options for me even when I was looking for only one specific function.
+The other options helped me go back to them and use them when I found a similar problem on a later exercise. Here is my chat history so far, it converted our conversation into a PDF: https://drive.google.com/file/d/17_Uql80hFCkoxHgMyrS_V6fm2zFhmXO3/view?usp=sharing
+Overall I had a great experience with AI and I will test the other AI services to see which works best for me.
