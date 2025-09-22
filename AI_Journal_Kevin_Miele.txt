@@ -10,3 +10,7 @@ So as I was going over the week 1 exercises, I used ChatGPT to refresh on some c
 For example, I needed a reminder on how to print a float integer and change its decimal place. I really liked how chatGPT created useful options for me even when I was looking for only one specific function.
 The other options helped me go back to them and use them when I found a similar problem on a later exercise. Here is my chat history so far, it converted our conversation into a PDF: https://drive.google.com/file/d/17_Uql80hFCkoxHgMyrS_V6fm2zFhmXO3/view?usp=sharing
 Overall I had a great experience with AI and I will test the other AI services to see which works best for me.
+
+Week 2
+
+My main source of AI was still ChatGPT this week. I still havent had the chance to use the other AI services I mentioned during week 1 but I am promising myself that I will use a different source. The week 02 exercises were a bit more challenging for me and I had to review the concepts of a lot of python functions like loops, index, append, and remove. The concepts themselves are easy to understand, but when it comes to incorperating them into lists it can be difficult if you want a specific detail to be added or removed. After week 2's exercises I can definitely see how lists are used to keep track of inventory. I believe that many of these functions will be used with my teams project.
