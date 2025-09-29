@@ -14,3 +14,10 @@ Overall I had a great experience with AI and I will test the other AI services t
 Week 2
 
 My main source of AI was still ChatGPT this week. I still havent had the chance to use the other AI services I mentioned during week 1 but I am promising myself that I will use a different source. The week 02 exercises were a bit more challenging for me and I had to review the concepts of a lot of python functions like loops, index, append, and remove. The concepts themselves are easy to understand, but when it comes to incorperating them into lists it can be difficult if you want a specific detail to be added or removed. After week 2's exercises I can definitely see how lists are used to keep track of inventory. I believe that many of these functions will be used with my teams project.
+
+Week 3
+
+I used Claude more this week and also used it to help me with math equations. I think it has better visuals compared to chat GPT which helps me because I am a visual
+learner. With the recent reviews I notice that I am falling a bit behind on some python concepts, and I plan to really focus on my weak points and keep practicing and
+improving. I think the most important thing about learning to code is practice. Sometimes I get too lazy and I only spend a short amount of time coding, when there
+are a lot more things to explore and learn when it comes to python.
