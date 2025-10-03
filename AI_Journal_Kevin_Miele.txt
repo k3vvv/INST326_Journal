@@ -25,5 +25,7 @@ are a lot more things to explore and learn when it comes to python.
 Week 4
 
 I went back to Chat GPT and used it to help with some of the class and objects exercises. What is really helping me is using the study option in ChatGPT so that it
-goes over a concept step by step to make sure you understand. 
-I like how ChatGPT can ask me questions to check my understanding. I also having been using a textbook to help me understand classes and objects. Python Crash Course third edition by Eric Matthes has really been helping me. What I do is I go over each example and write it myself in Python. I am trying to practice in Python for at least 1 hour a day. What I want to test out next is if ChatGPT can design a game using Python code without my input and with only my ideas. I saw a YouTube video once where someone used AI to create a horror game from scratch.
+goes over a concept step by step to make sure you understand. I like how ChatGPT can ask me questions to check my understanding. I also having been using 
+a textbook to help me understand classes and objects. Python Crash Course third edition by Eric Matthes has really been helping me. What I do is I go over 
+each example and write it myself in Python. I am trying to practice in Python for at least 1 hour a day. What I want to test out next is if ChatGPT can design 
+a game using Python code without my input and with only my ideas. I saw a YouTube video once where someone used AI to create a horror game from scratch.
