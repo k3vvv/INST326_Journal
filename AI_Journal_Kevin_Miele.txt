@@ -29,3 +29,11 @@ goes over a concept step by step to make sure you understand. I like how ChatGPT
 a textbook to help me understand classes and objects. Python Crash Course third edition by Eric Matthes has really been helping me. What I do is I go over 
 each example and write it myself in Python. I am trying to practice in Python for at least 1 hour a day. What I want to test out next is if ChatGPT can design 
 a game using Python code without my input and with only my ideas. I saw a YouTube video once where someone used AI to create a horror game from scratch.
+
+Week 5 
+
+For this week I had ChatGPT explian a lot of the functions and concepts I needed to better understand the group project and this weeks exercises.
+One of the best things that ChatGPT did for me is with me and my groups project on financial data, such as customer transactions and other user data, I wanted
+ChatGPT to come up with a hypothetical assumption of what the user_input would be like. It gave me a good example, with data that was legible but ultimately
+needed to pass through the functions intended for the project. It contained common user input errors like extra spaces and different formatting with data such as
+dates and transaction names such as Starbucks and Amazon.
