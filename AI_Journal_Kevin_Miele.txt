@@ -37,3 +37,10 @@ One of the best things that ChatGPT did for me is with me and my groups project 
 ChatGPT to come up with a hypothetical assumption of what the user_input would be like. It gave me a good example, with data that was legible but ultimately
 needed to pass through the functions intended for the project. It contained common user input errors like extra spaces and different formatting with data such as
 dates and transaction names such as Starbucks and Amazon.
+
+Week 6
+
+This week I used AI using Googles search engine. Whenever there is a python concept I need to review again, I use Google because of the AI summary it uses. 
+I find it very useful because it creates good coding examples. It helped me a lot to complete this week's exercises. There are some cons however, because sometimes
+you will get conflicting definitions of things, or have information spoiled for you. For example, I have a friend who is watching the Walking Dead television series, and when she went to look up information on a certain character, the AI summary showed a spoiler without warning. Sometimes Google gives a quick answer
+faster than ChatGPT, especially when you have a quick and easy question, such as the uses of a specific python function.
