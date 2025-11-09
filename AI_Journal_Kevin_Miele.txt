@@ -54,3 +54,10 @@ I had a math exam so I was also using chatGPT to help me create practice problem
 ChatGPT can solve math equations, but the way the AI solves them can get very confusing. I had ChatGPT create a list of some of the most important concepts I needed
 to review. What I like about ChatGPT is its memory, because towards the end of the semester it can give me an overall summary of my strengths and weaknesses
 when it comes to python coding. I can practice the concepts I struggle with the most over the summer.
+
+Week 8
+
+This week I struggled a lot with errors in my code. I used ChatGPT to help me debug, but I kept running into errors. I eventually figured out that the issue
+was not refreshing the classes that are defined at the beginning of the exercises file. When a long period of time passes, you have to run the cell again
+one in a while to have the code recognize certain classes and functions. At some moments I got frustrated because I didnt know what I was doing wrong, but then
+I figured out the solution. Problems like the one I encountered happened to me before. I think another great skill of programming is patience.
