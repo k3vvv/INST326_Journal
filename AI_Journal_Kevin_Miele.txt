@@ -61,3 +61,10 @@ This week I struggled a lot with errors in my code. I used ChatGPT to help me de
 was not refreshing the classes that are defined at the beginning of the exercises file. When a long period of time passes, you have to run the cell again
 one in a while to have the code recognize certain classes and functions. At some moments I got frustrated because I didnt know what I was doing wrong, but then
 I figured out the solution. Problems like the one I encountered happened to me before. I think another great skill of programming is patience.
+
+Week 9 
+
+I figured out how to do Abstract classes and I think they are very cool. Sometimes with code it can be frustrating when rules are strict, but with abstract classes
+it definitely makes things more organized when you have to implement abstract methods. I watched a very helpful youtube video from a youtuber called Bro Code
+https://www.youtube.com/watch?v=97V7ICVeTJc. I ran into a lot of issues during this weeks exercises but I managed to solve them. One of the biggest issues I faced
+was adding methods to multiple classes. If I add one method to a class and forget to add it to others, it created a lot of errors, but eventually I solved the errors by writing the class again and adding the method within the exercise to avoid confusion.
