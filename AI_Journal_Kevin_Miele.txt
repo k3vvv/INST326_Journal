@@ -68,3 +68,7 @@ I figured out how to do Abstract classes and I think they are very cool. Sometim
 it definitely makes things more organized when you have to implement abstract methods. I watched a very helpful youtube video from a youtuber called Bro Code
 https://www.youtube.com/watch?v=97V7ICVeTJc. I ran into a lot of issues during this weeks exercises but I managed to solve them. One of the biggest issues I faced
 was adding methods to multiple classes. If I add one method to a class and forget to add it to others, it created a lot of errors, but eventually I solved the errors by writing the class again and adding the method within the exercise to avoid confusion.
+
+Week 10 
+
+This week I had used AI to help me keep track of changes I made to the introductory code of the week 10 exercises. One of my biggest struggles is keeping track of the small changes that occur when managing multiple classes. Sometimes I forget to refresh some of the code that include new methods, similar to some of the problems I had last week. With validation and dataclass options that we learned, I found it much easier to establish better organization, and my code seemed much more readable compared to when I first started. Overall, I did not have too many problems this week, and I am more concerned over my group project. I am very curious to see how all of our code will run once we finish everything. I think its a great opportunity to learn how to work with others, especially when it comes to python coding, where small details can change everything.
